@@ -3,7 +3,7 @@ npc-shell
 npc/nos OpenAPI command line utility
 参见 https://github.com/xiaopal/npc-shell
 
-Update 2017-12-1
+Update 2017-12-13
 
 开始使用
 ---
